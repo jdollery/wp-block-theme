@@ -1,0 +1,11 @@
+# Ignore everything in the root except the "wp-content" directory.
+/*
+!.gitignore
+!wp-content/
+# !wp-config.php
+
+wp-content/*
+!wp-content/themes/
+!compose.yml
+
+# wp-content/themes/index.php
