@@ -9,3 +9,5 @@ wp-content/*
 !compose.yml
 
 # wp-content/themes/index.php
+
+node_modules
